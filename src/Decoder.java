@@ -1,5 +1,5 @@
 public class Decoder {
-    // Mr.Mojalled's Solution
+    // Mr.Mojalled's Solution 1
     public static void main(String[] args) {
         String[] encodedData = {
                 "242837435263orangedqhzmvHedybrightyfjLamarrtableobomco-inventedcherrytlrft",
